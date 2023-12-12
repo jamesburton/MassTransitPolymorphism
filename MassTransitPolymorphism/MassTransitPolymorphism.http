@@ -1,0 +1,6 @@
+@MassTransitPolymorphism_HostAddress = http://localhost:5289
+
+GET {{MassTransitPolymorphism_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

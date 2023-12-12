@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitPolymorphism", "MassTransitPolymorphism\MassTransitPolymorphism.csproj", "{1F2AF4D9-4FAE-4730-9750-F5B5086E6B63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitPolymorphism.Tests", "MassTransitPolymorphism.Tests\MassTransitPolymorphism.Tests.csproj", "{7449C543-DD29-4968-976E-8C930B4FC6AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4D1FE833-CB32-4583-A896-10E279B8336A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2AF4D9-4FAE-4730-9750-F5B5086E6B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2AF4D9-4FAE-4730-9750-F5B5086E6B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2AF4D9-4FAE-4730-9750-F5B5086E6B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2AF4D9-4FAE-4730-9750-F5B5086E6B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7449C543-DD29-4968-976E-8C930B4FC6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7449C543-DD29-4968-976E-8C930B4FC6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7449C543-DD29-4968-976E-8C930B4FC6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7449C543-DD29-4968-976E-8C930B4FC6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {988C04CA-7FB5-4F8E-BFBE-206D3262A0C4}
+	EndGlobalSection
+EndGlobal
